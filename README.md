@@ -1,10 +1,6 @@
-# The-Hungry-Snake 🐍
+# Hungry-Snake 🐍
 
 Control your snake and avoid collusion!
-
-- 🌴 This is the final project of Data Structure instructed by Prof. Ken-Yi Lee at National Taiwan University
-- 🥇 Our algorithm is rated 1st/41 teams
-- 🎥 Watch our final project demo competition [here](https://www.youtube.com/watch?v=RwqK-bDCWtg&ab_channel=FeisLee)
 
 ## Usage
 
